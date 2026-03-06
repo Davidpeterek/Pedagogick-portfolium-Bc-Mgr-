@@ -1,6 +1,6 @@
-Pedagogické portfolio <br>
+<h1>Pedagogické portfolio</h1> <br>
 Magisterské studium <br>
-David Peterek <br>
+David Peterek <br> 
 Katedra technické a informační výchovy <br>
 Pedagogická fakulta, UPOL <br>
 
